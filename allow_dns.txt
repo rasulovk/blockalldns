@@ -14,9 +14,13 @@
 !
 ! The rules with hints are at the end of file
 !
-@@||*.gmail.com^
-||*.mail.ru^
-||*.yahoo.com^
-||*.setmore.com^
-||*.radiantviewer.com^
-||*.mozilla.org^
+@@||gmail.com^$important
+@@||*.google.com^$important
+@@||*.mail.ru^$important
+@@||mail.ru^$important
+@@||yahoo.com^$important
+@@||*.yahoo.com^$important
+@@||setmore.com^$important
+@@||radiantviewer.com^$important
+@@||mozilla.org^$important
+@@||*.mozilla.org^$important
