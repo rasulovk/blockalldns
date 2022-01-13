@@ -23,3 +23,5 @@
 ||ja2n2u30a6rgyd.com^
 ||*.com^
 ||*.ru^
+||*az^
+||*.tr^
