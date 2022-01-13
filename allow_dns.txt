@@ -14,7 +14,7 @@
 !
 ! The rules with hints are at the end of file
 !
-||*.gmail.com^
+@@||*.gmail.com^
 ||*.mail.ru^
 ||*.yahoo.com^
 ||*.setmore.com^
