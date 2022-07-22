@@ -82,3 +82,5 @@
 ||*.bizˆ
 ||рост-знаменитостей.рфˆ
 ||*.sidoo.orgˆ
+||*.nfrpr.comˆ
+||nfrpr.comˆ
