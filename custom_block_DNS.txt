@@ -84,3 +84,4 @@
 ||*.sidoo.orgˆ
 ||*.nfrpr.comˆ
 ||nfrpr.comˆ
+||kinoflux.orgˆ
