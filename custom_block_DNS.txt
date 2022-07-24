@@ -85,3 +85,4 @@
 ||*.nfrpr.comˆ
 ||nfrpr.comˆ
 ||kinoflux.orgˆ
+||filmix.acˆ
