@@ -106,3 +106,4 @@
 ||gidonline.ioˆ
 ||api.nordvpn.comˆ
 ||*.synchroncode.comˆ
+||sprashivalka.comˆ
