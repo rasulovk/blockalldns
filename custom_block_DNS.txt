@@ -104,3 +104,4 @@
 ||sidoo.orgˆ
 ||*.nfrpr.comˆ
 ||gidonline.ioˆ
+||api.nordvpn.comˆ
