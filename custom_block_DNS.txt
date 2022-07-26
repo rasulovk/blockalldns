@@ -16,94 +16,94 @@
 !
 ! The rules with hints are at the end of file
 !
-||croxyproxy.com^
-||library.lol^
-||s.duhnet.tv^
-||panel.webanalytic.orgˆ
-||thumbs.filmix.acˆ
-||clientsdk.luminatinet.comˆ
-||rezka.agˆ
-||clientsdk.lum-sdk.ioˆ
-||download.veepn.comˆ
-||workerconnect.bizˆ
-||earth-vpn.netˆ
-||candycrushsoda.king.comˆ
-||mon.caspiannavtel.comˆ
-||mon.caspiannavtel.comˆ
-||z-lib.orgˆ
-||allowandgo.clubˆ
-||kinoprofi.vipˆ
-||auth.topgamers.cnˆ
-||spinning.allohalive.comˆ
-||www.boydsmiths.inˆ
-||0.to6s.bizˆ
-||dagamrahospital.comˆ
-||gmai.comˆ
-||ivcgb.ruˆ
-||baskino.meˆ
-||kinogo.bizˆ
-||client.zspeed-cdn.comˆ
-||zspeed-cdn.comˆ
-||client.h-vpn.orgˆ
-||h-vpn.orgˆ
-||holavpnextension.comˆ
-||storage.diziyou.comˆ
-||kinokrad.coˆ
-||Touch.VPNˆ
-||clientsdk.luminati-china.ioˆ
-||gidonline.ioˆ
-||client.hola.orgˆ
-||stats.diziyou.comˆ
-||Cloudflare.1.1.1.1.VPNˆ
-||perr.zspeed-cdn.comˆ
-||perr.h-vpn.orgˆ
-||www.diziyou.comˆ
-||hls.kinokrad.coˆ
-||www.fullhdfilmizlesene.pwˆ
-||www.dizigom1.comˆ
-||zero.sci-hub.seˆ
-||sci-hub.seˆ
-||1lib.educationˆ
-||rutracker.orgˆ
-||s.kinokrad.coˆ
-||b-ok.asˆ
-||filmix.acˆ
-||poixo.comˆ
-||update.torrentstream.orgˆ
-||*.torrentstream.infoˆ
-||kinonovinki.netˆ
-||thegameroof.comˆ
-||*.lord-film-cc.meˆ
-||torrentstream.netˆ
-||thumbs.filmix.acˆ
-||securepubads.g.doubleclick.netˆ
-||candycrushsoda.king.comˆ
-||*.bizˆ
-||рост-знаменитостей.рфˆ
-||*.sidoo.orgˆ
-||*.nfrpr.comˆ
-||nfrpr.comˆ
-||kinoflux.orgˆ
-||filmix.acˆ
-||tiktokcdn.comˆ
-||tiktokv.coˆ
-||tiktokv.comˆ
-||news-hovupi.ccˆ
-||download.veepn.comˆ
-||candycrushsoda.king.comˆ
-||clientsdk.luminatinet.comˆ
-||*.prior.azˆ
-||рост-знаменитостей.рфˆ
-||gidonline.funˆ
-||allohalive.comˆ
-||kinoprofi.vipˆ
-||*.coralproject.netˆ
-||*.webanalytic.orgˆ
-||*.clubˆ
-||sidoo.orgˆ
-||*.nfrpr.comˆ
-||gidonline.ioˆ
-||api.nordvpn.comˆ
-||*.synchroncode.comˆ
-||sprashivalka.comˆ
-||*.kinovod.netˆ
+127.0.0.1 croxyproxy.com^
+127.0.0.1 library.lol^
+127.0.0.1 s.duhnet.tv^
+127.0.0.1 panel.webanalytic.orgˆ
+127.0.0.1 thumbs.filmix.acˆ
+127.0.0.1 clientsdk.luminatinet.comˆ
+127.0.0.1 rezka.agˆ
+127.0.0.1 clientsdk.lum-sdk.ioˆ
+127.0.0.1 download.veepn.comˆ
+127.0.0.1 workerconnect.bizˆ
+127.0.0.1 earth-vpn.netˆ
+127.0.0.1 candycrushsoda.king.comˆ
+127.0.0.1 mon.caspiannavtel.comˆ
+127.0.0.1 mon.caspiannavtel.comˆ
+127.0.0.1 z-lib.orgˆ
+127.0.0.1 allowandgo.clubˆ
+127.0.0.1 kinoprofi.vipˆ
+127.0.0.1 auth.topgamers.cnˆ
+127.0.0.1 spinning.allohalive.comˆ
+127.0.0.1 www.boydsmiths.inˆ
+127.0.0.1 0.to6s.bizˆ
+127.0.0.1 dagamrahospital.comˆ
+127.0.0.1 gmai.comˆ
+127.0.0.1 ivcgb.ruˆ
+127.0.0.1 baskino.meˆ
+127.0.0.1 kinogo.bizˆ
+127.0.0.1 client.zspeed-cdn.comˆ
+127.0.0.1 zspeed-cdn.comˆ
+127.0.0.1 client.h-vpn.orgˆ
+127.0.0.1 h-vpn.orgˆ
+127.0.0.1 holavpnextension.comˆ
+127.0.0.1 storage.diziyou.comˆ
+127.0.0.1 kinokrad.coˆ
+127.0.0.1 Touch.VPNˆ
+127.0.0.1 clientsdk.luminati-china.ioˆ
+127.0.0.1 gidonline.ioˆ
+127.0.0.1 client.hola.orgˆ
+127.0.0.1 stats.diziyou.comˆ
+127.0.0.1 Cloudflare.1.1.1.1.VPNˆ
+127.0.0.1 perr.zspeed-cdn.comˆ
+127.0.0.1 perr.h-vpn.orgˆ
+127.0.0.1 www.diziyou.comˆ
+127.0.0.1 hls.kinokrad.coˆ
+127.0.0.1 www.fullhdfilmizlesene.pwˆ
+127.0.0.1 www.dizigom1.comˆ
+127.0.0.1 zero.sci-hub.seˆ
+127.0.0.1 sci-hub.seˆ
+127.0.0.1 1lib.educationˆ
+127.0.0.1 rutracker.orgˆ
+127.0.0.1 s.kinokrad.coˆ
+127.0.0.1 b-ok.asˆ
+127.0.0.1 filmix.acˆ
+127.0.0.1 poixo.comˆ
+127.0.0.1 update.torrentstream.orgˆ
+127.0.0.1 *.torrentstream.infoˆ
+127.0.0.1 kinonovinki.netˆ
+127.0.0.1 thegameroof.comˆ
+127.0.0.1 *.lord-film-cc.meˆ
+127.0.0.1 torrentstream.netˆ
+127.0.0.1 thumbs.filmix.acˆ
+127.0.0.1 securepubads.g.doubleclick.netˆ
+127.0.0.1 candycrushsoda.king.comˆ
+127.0.0.1 *.bizˆ
+127.0.0.1 рост-знаменитостей.рфˆ
+127.0.0.1 *.sidoo.orgˆ
+127.0.0.1 *.nfrpr.comˆ
+127.0.0.1 nfrpr.comˆ
+127.0.0.1 kinoflux.orgˆ
+127.0.0.1 filmix.acˆ
+127.0.0.1 tiktokcdn.comˆ
+127.0.0.1 tiktokv.coˆ
+127.0.0.1 tiktokv.comˆ
+127.0.0.1 news-hovupi.ccˆ
+127.0.0.1 download.veepn.comˆ
+127.0.0.1 candycrushsoda.king.comˆ
+127.0.0.1 clientsdk.luminatinet.comˆ
+127.0.0.1 *.prior.azˆ
+127.0.0.1 рост-знаменитостей.рфˆ
+127.0.0.1 gidonline.funˆ
+127.0.0.1 allohalive.comˆ
+127.0.0.1 kinoprofi.vipˆ
+127.0.0.1 *.coralproject.netˆ
+127.0.0.1 *.webanalytic.orgˆ
+127.0.0.1 *.clubˆ
+127.0.0.1 sidoo.orgˆ
+127.0.0.1 *.nfrpr.comˆ
+127.0.0.1 gidonline.ioˆ
+127.0.0.1 api.nordvpn.comˆ
+127.0.0.1 *.synchroncode.comˆ
+127.0.0.1 sprashivalka.comˆ
+127.0.0.1 *.kinovod.netˆ
