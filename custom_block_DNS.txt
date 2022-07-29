@@ -107,3 +107,7 @@
 127.0.0.1 *.synchroncode.com
 127.0.0.1 sprashivalka.com
 127.0.0.1 *.kinovod.net
+127.0.0.1 downmedia.club
+127.0.0.1 backend.yoogiscloset.com
+127.0.0.1 freeresultsguide.com
+127.0.0.1 1clickvpn.net
