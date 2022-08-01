@@ -111,3 +111,7 @@
 127.0.0.1 backend.yoogiscloset.com
 127.0.0.1 freeresultsguide.com
 127.0.0.1 1clickvpn.net
+127.0.0.1 baskino.me
+127.0.0.1 videoseyred.in
+127.0.0.1 *.dizimia.net
+127.0.0.1 filmdelisi.co
