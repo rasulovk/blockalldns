@@ -4,3 +4,4 @@
 ||*.tr^
 ||*.net^
 ||*.sdm.corp.globalˆ
+||*.co.ukˆ
