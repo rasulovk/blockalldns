@@ -3,4 +3,4 @@
 ||*.az^
 ||*.tr^
 ||*.net^
-||*.sdm.corp.global
+||*.sdm.corp.globalˆ
