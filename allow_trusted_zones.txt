@@ -3,6 +3,7 @@
 ||*.az^
 ||*.tr^
 ||*.net^
+||*.org^
 ||*.sdm.corp.global^
 ||*.co.uk^
 ||*.quickconnect.to^
