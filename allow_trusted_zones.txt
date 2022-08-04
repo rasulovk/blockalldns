@@ -5,3 +5,5 @@
 ||*.net^
 ||*.sdm.corp.globalˆ
 ||*.co.ukˆ
+||*.quickconnect.toˆ
+||*.tecnimont.itˆ
