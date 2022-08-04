@@ -9,3 +9,4 @@
 ||*.quickconnect.to^
 ||*.tecnimont.it^
 ||*.tecnicasreunidas.es^
+||we.tl
