@@ -7,3 +7,4 @@
 ||*.co.uk^
 ||*.quickconnect.to^
 ||*.tecnimont.it^
+||*.tecnicasreunidas.es^
