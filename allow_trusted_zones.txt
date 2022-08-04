@@ -3,7 +3,7 @@
 ||*.az^
 ||*.tr^
 ||*.net^
-||*.sdm.corp.globalˆ
-||*.co.ukˆ
-||*.quickconnect.toˆ
-||*.tecnimont.itˆ
+||*.sdm.corp.global^
+||*.co.uk^
+||*.quickconnect.to^
+||*.tecnimont.it^
