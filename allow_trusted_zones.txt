@@ -11,3 +11,4 @@
 ||*.tecnicasreunidas.es^
 ||we.tl
 ||*.easyhire.me^
+||azal.travel^
