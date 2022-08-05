@@ -10,3 +10,4 @@
 ||*.tecnimont.it^
 ||*.tecnicasreunidas.es^
 ||we.tl
+||*.easyhire.me^
