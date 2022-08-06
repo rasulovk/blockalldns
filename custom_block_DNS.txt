@@ -116,3 +116,4 @@
 127.0.0.1 *.dizimia.net
 127.0.0.1 filmdelisi.co
 127.0.0.1 storage.diziyou.com
+127.0.0.1 mainbackupdomain.com
