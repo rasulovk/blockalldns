@@ -13,3 +13,4 @@
 ||*.easyhire.me^
 ||azal.travel^
 ||*.nakarte.me^
+||*.github.io^
