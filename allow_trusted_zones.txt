@@ -9,6 +9,7 @@
 ||*.quickconnect.to^
 ||*.tecnimont.it^
 ||*.tecnicasreunidas.es^
-||we.tl
+||we.tl^
 ||*.easyhire.me^
 ||azal.travel^
+||*.nakarte.me^
