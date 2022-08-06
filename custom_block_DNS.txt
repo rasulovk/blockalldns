@@ -16,6 +16,10 @@
 !
 ! The rules with hints are at the end of file
 !
+
+127.0.0.1  localhost
+::1  localhost
+
 127.0.0.1 croxyproxy.com
 127.0.0.1 library.lol
 127.0.0.1 s.duhnet.tv
