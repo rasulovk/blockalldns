@@ -14,4 +14,5 @@
 ||azal.travel^
 ||*.nakarte.me^
 ||*.github.io^
-
+||*.traefik.io^
+||*.docker.io^
