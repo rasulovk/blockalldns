@@ -16,3 +16,4 @@
 ||*.github.io^
 ||*.traefik.io^
 ||*.docker.io^
+||*.technotim.live^
