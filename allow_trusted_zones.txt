@@ -17,3 +17,4 @@
 ||*.traefik.io^
 ||*.docker.io^
 ||*.technotim.live^
+||*.traefik.io^
