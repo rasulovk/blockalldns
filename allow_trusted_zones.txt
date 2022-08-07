@@ -18,3 +18,4 @@
 ||*.docker.io^
 ||*.technotim.live^
 ||*.traefik.io^
+||traefik.io^
