@@ -19,3 +19,4 @@
 ||*.technotim.live^
 ||*.traefik.io^
 ||traefik.io^
+||*.intext.eu^
