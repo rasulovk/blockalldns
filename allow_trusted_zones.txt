@@ -21,4 +21,4 @@
 ||*.traefik.io^
 ||traefik.io^
 ||*.intext.eu^
-||*..esteri.it^
+||*.esteri.it^
