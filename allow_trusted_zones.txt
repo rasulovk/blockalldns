@@ -10,6 +10,7 @@
 ||*.tecnimont.it^
 ||*.tecnicasreunidas.es^
 ||we.tl^
+||*.edu^
 ||*.easyhire.me^
 ||azal.travel^
 ||*.nakarte.me^
