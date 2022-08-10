@@ -22,3 +22,4 @@
 ||traefik.io^
 ||*.intext.eu^
 ||*.esteri.it^
+||draw.io^
