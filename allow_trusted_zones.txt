@@ -23,3 +23,5 @@
 ||*.intext.eu^
 ||*.esteri.it^
 ||draw.io^
+||*.zoom.us^
+||zoom.us^
