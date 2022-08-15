@@ -26,3 +26,7 @@
 ||*.zoom.us^
 ||zoom.us^
 ||*.viaggiaresicuri.it^
+||*.ucalgary.ca^
+||ucalgary.ca^
+||utoronto.ca^
+||*.utoronto.ca^
