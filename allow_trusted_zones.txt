@@ -4,6 +4,7 @@
 ||*.tr^
 ||*.net^
 ||*.org^
+||*.uk^
 ||*.sdm.corp.global^
 ||*.co.uk^
 ||*.quickconnect.to^
@@ -30,3 +31,4 @@
 ||ucalgary.ca^
 ||utoronto.ca^
 ||*.utoronto.ca^
+||who.int^
